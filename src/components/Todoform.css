@@ -1,0 +1,33 @@
+.todo-input-division {
+display:flex;
+align-items: center;
+padding-top: 200px;
+width: 100vw;
+justify-content: center;
+gap:30px
+
+}
+
+
+.todo-input{
+height: 35px;
+width: 300px;
+background-color: lightgray;
+border-radius: 5px ;
+
+
+
+}
+
+.add-button{
+    background-color: darkgoldenrod;
+    height:30px;
+    border-radius: 5px;
+    border : none;
+    width:60px;
+    cursor: pointer;
+    
+}
+.add-button:hover{
+    background-color: rgb(58, 77, 27);
+}

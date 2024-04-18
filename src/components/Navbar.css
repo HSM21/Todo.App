@@ -1,0 +1,12 @@
+.navbar{
+    width:100%;
+    text-align: center;
+    height:60px;
+    background-color: rgb(214, 164, 38);
+    border-radius:0px 0px 15px 15px;
+    position: fixed;
+    top: 0%;
+}
+.navbar>h1{
+    align-items:center;
+}
